@@ -1,2 +1,11 @@
-# weekly-hospital-respiratory-forecast
-A machine learning project that analyzes and forecasts weekly hospital respiratory service demand (2020–2024). Includes exploratory data analysis, time-based train/test modeling, prediction evaluation, and Power BI visualizations to support hospital capacity planning.
+# Hospital Respiratory Demand Forecasting
+
+## Overview
+This project analyzes and forecasts weekly hospital respiratory service demand from 2020 to 2024. Using historical admission data, machine learning models are trained to predict future demand, helping hospitals optimize resource allocation and capacity planning.
+
+## Features
+- Exploratory Data Analysis (EDA) of weekly respiratory admissions
+- Time-based train/test split for model evaluation
+- Implementation of machine learning models for forecasting
+- Evaluation metrics: MSE, RMSE, MAE
+- Power BI visualizations for insights and reporting
